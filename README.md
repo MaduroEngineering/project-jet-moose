@@ -1,4 +1,4 @@
-# project-jet-moose
+# project-jet-moose [![CircleCI](https://circleci.com/gh/MaduroEngineering/project-jet-moose.svg?style=svg)](https://circleci.com/gh/MaduroEngineering/project-jet-moose)
 *"Having fun with AWS Lambda"*
 
 
